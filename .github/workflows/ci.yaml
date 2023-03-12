@@ -1,4 +1,4 @@
-name: ci-nodejs-sonar
+name: ci-nodejs-sonarx
 on: 
   pull_request:
     branches:
